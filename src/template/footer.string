@@ -1,0 +1,18 @@
+<li class="active">
+	<a href="javascript:;">
+		<i class="yo-ico">&#xe6b8;</i>
+		<span>职位</span>
+	</a>
+</li>
+<li>
+	<a href="javascript:;">
+		<i class="yo-ico">&#xe65c;</i>
+		<span>搜索</span>
+	</a>
+</li>
+<li>
+	<a href="javascript:;">
+		<i class="yo-ico">&#xe78b;</i>
+		<span>我的</span>
+	</a>
+</li>

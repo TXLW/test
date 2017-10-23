@@ -1,0 +1,37 @@
+{
+  "name": "txl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-if": "^2.0.2",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rev": "^8.0.0",
+    "gulp-rev-collector": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-sequence": "^0.4.6",
+    "gulp-uglify": "^3.0.0",
+    "gulp-watch": "^4.3.11",
+    "gulp-webpack": "^1.5.0",
+    "gulp-webserver": "^0.9.1",
+    "http-proxy-middleware": "^0.17.4",
+    "imports-loader": "^0.7.1",
+    "minimist": "^1.2.0",
+    "node-sass": "^4.5.3",
+    "string-loader": "0.0.1",
+    "vinyl-named": "^1.1.0",
+    "yo3": "^3.0.12"
+  },
+  "dependencies": {
+    "art-template": "^4.12.1",
+    "zeptojs": "^1.1.4"
+  }
+}

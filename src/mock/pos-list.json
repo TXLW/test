@@ -1,0 +1,243 @@
+{
+    "content": {
+        "data": {
+            "isLogin": false,
+            "page": {
+                "pageSize": 15,
+                "start": "15",
+                "result": [
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3614803,
+                        "positionName": "政府关系维护",
+                        "city": "长沙",
+                        "createTime": "今天 15:35",
+                        "salary": "7k-14k",
+                        "companyId": 164989,
+                        "companyLogo": "i/image/M00/23/DD/CgpFT1kby6GANyJUAAFZ-7-QkAo417.jpg",
+                        "companyName": "Hellobike哈罗单车",
+                        "companyFullName": "上海钧正网络科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3614808,
+                        "positionName": "政府关系",
+                        "city": "温州",
+                        "createTime": "今天 15:35",
+                        "salary": "5k-10k",
+                        "companyId": 164989,
+                        "companyLogo": "i/image/M00/23/DD/CgpFT1kby6GANyJUAAFZ-7-QkAo417.jpg",
+                        "companyName": "Hellobike哈罗单车",
+                        "companyFullName": "上海钧正网络科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3607549,
+                        "positionName": "数据产品经理",
+                        "city": "北京",
+                        "createTime": "今天 15:31",
+                        "salary": "15k-25k",
+                        "companyId": 107423,
+                        "companyLogo": "i/image/M00/0B/AE/Cgp3O1bWYyOAQo96AAC1TQO-4Cg541.jpg",
+                        "companyName": "瓜子二手车直卖网",
+                        "companyFullName": "车好多旧机动车经纪(北京)有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3607101,
+                        "positionName": "PHP开发工程师",
+                        "city": "北京",
+                        "createTime": "今天 15:31",
+                        "salary": "15k-25k",
+                        "companyId": 107423,
+                        "companyLogo": "i/image/M00/0B/AE/Cgp3O1bWYyOAQo96AAC1TQO-4Cg541.jpg",
+                        "companyName": "瓜子二手车直卖网",
+                        "companyFullName": "车好多旧机动车经纪(北京)有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3614551,
+                        "positionName": "文案策划",
+                        "city": "杭州",
+                        "createTime": "今天 15:29",
+                        "salary": "6k-10k",
+                        "companyId": 65313,
+                        "companyLogo": "i/image/M00/00/1A/CgqKkVYpo_2AcvWWAAAVd2RV9D8953.png",
+                        "companyName": "浙江保融",
+                        "companyFullName": "浙江保融科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3607560,
+                        "positionName": "项目经理",
+                        "city": "广州",
+                        "createTime": "今天 15:28",
+                        "salary": "8k-10k",
+                        "companyId": 54080,
+                        "companyLogo": "image1/M00/0C/3B/Cgo8PFT1HbGAPXjeAABvZ2EvdrU648.png",
+                        "companyName": "广州立思辰",
+                        "companyFullName": "广州立思辰信息科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3607610,
+                        "positionName": "大客户销售（政企）",
+                        "city": "广州",
+                        "createTime": "今天 15:28",
+                        "salary": "8k-10k",
+                        "companyId": 54080,
+                        "companyLogo": "image1/M00/0C/3B/Cgo8PFT1HbGAPXjeAABvZ2EvdrU648.png",
+                        "companyName": "广州立思辰",
+                        "companyFullName": "广州立思辰信息科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3615970,
+                        "positionName": "硬件测试工程师",
+                        "city": "深圳",
+                        "createTime": "今天 15:25",
+                        "salary": "12k-16k",
+                        "companyId": 73758,
+                        "companyLogo": "i/image/M00/8B/33/Cgp3O1h4jx-ALXHpAADIYVz6vnk990.jpg",
+                        "companyName": "深智云",
+                        "companyFullName": "深圳市电陶思创科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3616000,
+                        "positionName": "高级测试工程师",
+                        "city": "深圳",
+                        "createTime": "今天 15:25",
+                        "salary": "8k-15k",
+                        "companyId": 73758,
+                        "companyLogo": "i/image/M00/8B/33/Cgp3O1h4jx-ALXHpAADIYVz6vnk990.jpg",
+                        "companyName": "深智云",
+                        "companyFullName": "深圳市电陶思创科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3605754,
+                        "positionName": "Andriod开发工程师",
+                        "city": "上海",
+                        "createTime": "今天 15:23",
+                        "salary": "10k-18k",
+                        "companyId": 106132,
+                        "companyLogo": "image2/M00/15/D6/CgqLKVZESCmAT758AADaFtZZjwk321.jpg?cc=0.576640403592011",
+                        "companyName": "灏月传媒",
+                        "companyFullName": "上海灏月传媒科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3606047,
+                        "positionName": "平面设计实习生",
+                        "city": "深圳",
+                        "createTime": "今天 15:18",
+                        "salary": "2k-3k",
+                        "companyId": 28121,
+                        "companyLogo": "i/image/M00/00/AD/Cgp3O1ZSwWuATjtNAAAfDHrmDjo001.png",
+                        "companyName": "Klook 客路旅行",
+                        "companyFullName": "深圳市客路网络科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3607495,
+                        "positionName": "课程助理",
+                        "city": "北京",
+                        "createTime": "今天 15:15",
+                        "salary": "4k-6k",
+                        "companyId": 9581,
+                        "companyLogo": "i/image/M00/24/2E/Cgp3O1cZt7OAMbPiAAAL3I-dHfw256.jpg",
+                        "companyName": "雄鹰教育(雄鹰移动)",
+                        "companyFullName": "北京雄鹰教育科技有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3603260,
+                        "positionName": "测试工程师",
+                        "city": "上海",
+                        "createTime": "今天 15:15",
+                        "salary": "10k-17k",
+                        "companyId": 35112,
+                        "companyLogo": "image1/M00/00/53/Cgo8PFTUXRaAJMASAAA4tgqd6o4861.png",
+                        "companyName": "中腾信",
+                        "companyFullName": "中腾信金融信息服务（上海）有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3603863,
+                        "positionName": "高级java工程师",
+                        "city": "北京",
+                        "createTime": "今天 15:15",
+                        "salary": "20k-30k",
+                        "companyId": 21567,
+                        "companyLogo": "image1/M00/00/28/Cgo8PFTUWIyAbjUWAABX25UZ2vk171.jpg",
+                        "companyName": "安智",
+                        "companyFullName": "北京力天无限网络技术有限公司"
+                    },
+                    {
+                        "logger": {
+                            "traceCapable": true,
+                            "name": "com.lagou.entity.mobile.MobilePosition"
+                        },
+                        "positionId": 3603877,
+                        "positionName": "中级java工程师",
+                        "city": "北京",
+                        "createTime": "今天 15:15",
+                        "salary": "10k-15k",
+                        "companyId": 21567,
+                        "companyLogo": "image1/M00/00/28/Cgo8PFTUWIyAbjUWAABX25UZ2vk171.jpg",
+                        "companyName": "安智",
+                        "companyFullName": "北京力天无限网络技术有限公司"
+                    }
+                ],
+                "totalCount": "261044",
+                "pageNo": 2
+            }
+        },
+        "rows": []
+    },
+    "message": "第2页数据,每页15条, 查询成功!",
+    "state": 1
+}

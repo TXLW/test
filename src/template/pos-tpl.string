@@ -1,0 +1,21 @@
+<ul>
+	{{each result}}
+	<li>
+		<dl>
+			<a href="javascript:;">
+				<dt>
+					<img src="//static.lagou.com/{{$value.companyLogo}}" />
+				</dt>
+				<dd>
+					<h3>{{$value.companyName}}</h3>
+					<p>{{$value.positionName}}</p>
+					<p>{{$value.createTime}}</p>
+				</dd>
+				<dd>
+					{{$value.salary}}
+				</dd>
+			</a>
+		</dl>
+	</li>
+	{{/each}}
+</ul>

@@ -1,0 +1,17 @@
+<div class="m-position">
+	<div class="head">
+	    <img src="/images/arrow.png"/>
+	    <span>下拉刷新...</span>
+	</div>
+	<div class="custom">
+		<span class="custom-position">10秒钟定制职位</span>
+		<a href="javascript:;" class="gotologin">去登录</a>
+	</div>
+	<div class="list">
+		
+	</div>
+	<div class="foot">
+	    <img src="/images/arrow.png"/>
+	    <span>上拉加载更多...</span>
+	</div>
+</div>
